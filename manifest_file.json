@@ -1,0 +1,18 @@
+{
+    "fileLocations": [
+        {
+            "URIs": [
+                "s3://c19datastore/rawdata/2020-04-19 20:19:07.032393.csv"
+            ]
+        },
+        
+    ],
+    "globalUploadSettings": {
+        "format": "CSV",
+        "delimiter": ",",
+        "textqualifier": "'",
+        "containsHeader": "true"
+    }
+}
+
+
